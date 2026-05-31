@@ -1,10 +1,11 @@
-👋 Hi, I'm @Dinesh18S
 
-🎨 UI/UX designer who's better at visualizing solutions than coding them from scratch
+### Hi, I'm Dinesh 👋
 
-🔍 Expert bug hunter and problem solver - I can fix what's broken even when I didn't write it
+**Digital Health Product Engineer** — I take ideas from design all the way to shipped, working products.
 
-🤖 Embracing AI as my coding partner - using tools like GitHub Copilot and Claude to bring designs to life
-
-🌱 Always learning and building my technical skills 
+- 🏥 Building clinical & **FHIR/HL7** tooling in digital health
+- 🤖 **AI-native** workflow — Copilot & Claude are core to how I ship
+- 🧩 Fast at debugging and problem-solving across unfamiliar codebases
+- 🚀 Indie maker: HabitChat, Rivise, SortCopy, OpenTrace
+- 📫 selvar.dev@gmail.com
 
