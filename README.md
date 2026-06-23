@@ -7,5 +7,5 @@
 - 🤖 **AI-native** workflow — Copilot & Claude are core to how I ship
 - 🧩 Fast at debugging and problem-solving across unfamiliar codebases
 - 🚀 Indie maker: HabitChat, Rivise, SortCopy, OpenTrace
-- 📫 selvar.dev@gmail.com
+- 📫 selvatheva18@gmail.com
 
